@@ -3,17 +3,23 @@
     {
       "id": "000065355",
       "eventName": "Джаз под разводными мостами на теплоходе \"Корюшка\"",
-      "eventDateTime": "2024-03-28T00:30:00"
+      "eventDateTime": "2024-03-28T00:30:00",
+      "venueID": "000000004",
+      "venueName": "RYAPUSHKA"
     },
     {
       "id": "000065370",
       "eventName": "Джаз под разводными мостами на теплоходе \"Ряпушка\"",
-      "eventDateTime": "2024-03-28T01:30:00"
+      "eventDateTime": "2024-03-28T01:30:00",
+      "venueID": "000000005",
+      "venueName": "KORYSHKA"
     },
     {
       "id": "000065380",
       "eventName": "Джаз под разводными мостами на теплоходе \"Хомяк\"",
-      "eventDateTime": "2024-03-29T01:30:00"
+      "eventDateTime": "2024-03-29T01:30:00",
+      "venueID": "000000006",
+      "venueName": "HOMYAK"
     }
   ]
 }
