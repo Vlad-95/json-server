@@ -6,7 +6,8 @@
       "eventDate": "2024-04-01",
       "eventTime": "00:30:00",
       "venueID": "000000004",
-      "venueName": "KORYSHKA"
+      "venueName": "KORYSHKA",
+      "pierName": "Адмиралтейская наб, 2 | Admiralty emb, 2"
     },
     {
       "id": "000065370",
@@ -14,7 +15,8 @@
       "eventDate": "2024-04-01",
       "eventTime": "01:30:00",
       "venueID": "000000005",
-      "venueName": "RYAPUSHKA"
+      "venueName": "RYAPUSHKA",
+      "pierName": "Адмиралтейская наб, 2 | Admiralty emb, 2"
     },
     {
       "id": "000065380",
@@ -22,7 +24,8 @@
       "eventDate": "2024-04-02",
       "eventTime": "01:30:00",
       "venueID": "000000006",
-      "venueName": "HOMYAK"
+      "venueName": "HOMYAK",
+      "pierName": "Адмиралтейская наб, 2 | Admiralty emb, 2"
     }
   ]
 }
