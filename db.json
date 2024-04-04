@@ -8,7 +8,17 @@
       "venueID": "000000004",
       "venueName": "KORYSHKA",
       "pierName": "Адмиралтейская наб, 2 | Admiralty emb, 2",
-      "serviceID": "000000001"
+      "serviceID": "000000001",
+      "ticketTypes": [
+        {
+          "ticketTypesID": "000000001",
+          "ticketTypesName": "Один день"
+        },
+        {
+          "ticketTypesID": "000000002",
+          "ticketTypesName": "Один круг"
+        }
+      ]
     },
     {
       "id": "000065370",
@@ -18,7 +28,17 @@
       "venueID": "000000005",
       "venueName": "RYAPUSHKA",
       "pierName": "Супер наб, 2 | Admiralty emb, 2",
-      "serviceID": "000000001"
+      "serviceID": "000000001",
+      "ticketTypes": [
+        {
+          "ticketTypesID": "000000001",
+          "ticketTypesName": "Один день"
+        },
+        {
+          "ticketTypesID": "000000002",
+          "ticketTypesName": "Один круг"
+        }
+      ]
     },
     {
       "id": "000065380",
@@ -28,7 +48,37 @@
       "venueID": "000000006",
       "venueName": "HOMYAK",
       "pierName": "Абсолют наб, 2 | Admiralty emb, 2",
-      "serviceID": "000000001"
+      "serviceID": "000000001",
+      "ticketTypes": [
+        {
+          "ticketTypesID": "000000001",
+          "ticketTypesName": "Один день"
+        },
+        {
+          "ticketTypesID": "000000002",
+          "ticketTypesName": "Один круг"
+        }
+      ]
+    },
+    {
+      "id": "000065380",
+      "eventName": "Джаз под разводными мостами на теплоходе \"Утка\"",
+      "eventDate": "2024-04-02",
+      "eventTime": "01:30:00",
+      "venueID": "000000007",
+      "venueName": "UTKA",
+      "pierName": "Абсолют наб, 2 | Admiralty emb, 2",
+      "serviceID": "000000001",
+      "ticketTypes": [
+        {
+          "ticketTypesID": "000000001",
+          "ticketTypesName": "Один день"
+        },
+        {
+          "ticketTypesID": "000000002",
+          "ticketTypesName": "Один круг"
+        }
+      ]
     },
     {
       "id": "000065390",
@@ -38,7 +88,17 @@
       "venueID": "000000007",
       "venueName": "UTKA",
       "pierName": "Абсолют наб, 2 | Admiralty emb, 2",
-      "serviceID": "000000002"
+      "serviceID": "000000002",
+      "ticketTypes": [
+        {
+          "ticketTypesID": "000000001",
+          "ticketTypesName": "Один день"
+        },
+        {
+          "ticketTypesID": "000000002",
+          "ticketTypesName": "Один круг"
+        }
+      ]
     }
   ]
 }
