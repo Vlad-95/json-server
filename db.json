@@ -1,10 +1,9 @@
 {
   "events": [
     {
-      "id": "000065355",
+      "eventID": "000065355",
       "eventName": "Джаз под разводными мостами на теплоходе \"Корюшка\"",
-      "eventDate": "2024-04-01",
-      "eventTime": "00:30:00",
+      "eventDateTime": "2024-04-01T00:30:00",
       "venueID": "000000004",
       "venueName": "KORYSHKA",
       "pierName": "Адмиралтейская наб, 2 | Admiralty emb, 2",
@@ -21,10 +20,9 @@
       ]
     },
     {
-      "id": "000065370",
+      "eventID": "000065370",
       "eventName": "Джаз под разводными мостами на теплоходе \"Ряпушка\"",
-      "eventDate": "2024-04-01",
-      "eventTime": "01:30:00",
+      "eventDateTime": "2024-04-01T01:30:00",
       "venueID": "000000005",
       "venueName": "RYAPUSHKA",
       "pierName": "Супер наб, 2 | Admiralty emb, 2",
@@ -41,10 +39,9 @@
       ]
     },
     {
-      "id": "000065380",
+      "eventID": "000065380",
       "eventName": "Джаз под разводными мостами на теплоходе \"Хомяк\"",
-      "eventDate": "2024-04-02",
-      "eventTime": "01:30:00",
+      "eventDateTime": "2024-04-02T01:30:00",
       "venueID": "000000006",
       "venueName": "HOMYAK",
       "pierName": "Абсолют наб, 2 | Admiralty emb, 2",
@@ -61,10 +58,9 @@
       ]
     },
     {
-      "id": "000065390",
+      "eventID": "000065390",
       "eventName": "Джаз под разводными мостами на теплоходе \"Утка\"",
-      "eventDate": "2024-04-02",
-      "eventTime": "01:30:00",
+      "eventDateTime": "2024-04-02T01:30:00",
       "venueID": "000000007",
       "venueName": "UTKA",
       "pierName": "Абсолют наб, 2 | Admiralty emb, 2",
@@ -81,10 +77,9 @@
       ]
     },
     {
-      "id": "000065400",
+      "eventID": "000065400",
       "eventName": "Джаз под разводными мостами на теплоходе \"Утка\"",
-      "eventDate": "2024-04-02",
-      "eventTime": "01:30:00",
+      "eventDateTime": "2024-04-02T01:30:00",
       "venueID": "000000007",
       "venueName": "UTKA",
       "pierName": "Абсолют наб, 2 | Admiralty emb, 2",
