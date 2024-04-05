@@ -21,6 +21,41 @@
           "ticketTypesID": "000000003",
           "ticketTypesName": "Одна неделя"
         }
+      ],
+      "seatCategories": [
+        {
+          "seatCategoryID": "000000001",
+          "seatCategoryName": "Стандарт"
+        },
+        {
+          "seatCategoryID": "000000002",
+          "seatCategoryName": "VIP"
+        },
+        {
+          "seatCategoryID": "000000003",
+          "seatCategoryName": "Комфорт"
+        },
+        {
+          "seatCategoryID": "000000004",
+          "seatCategoryName": "Комфорт+"
+        }
+      ],
+      "seatPrices": [
+        {
+          "priceTypeID": "000000001",
+          "priceTypeName": "Полный",
+          "priceTypeValue": 6000
+        },
+        {
+          "priceTypeID": "000000001",
+          "priceTypeName": "Льготный",
+          "priceTypeValue": 3000
+        },
+        {
+          "priceTypeID": "000000001",
+          "priceTypeName": "Детский",
+          "priceTypeValue": 1000
+        }
       ]
     },
     {
@@ -43,6 +78,41 @@
         {
           "ticketTypesID": "000000002",
           "ticketTypesName": "Один круг"
+        }
+      ],
+      "seatCategories": [
+        {
+          "seatCategoryID": "000000001",
+          "seatCategoryName": "Стандарт"
+        },
+        {
+          "seatCategoryID": "000000002",
+          "seatCategoryName": "VIP"
+        },
+        {
+          "seatCategoryID": "000000003",
+          "seatCategoryName": "Комфорт"
+        },
+        {
+          "seatCategoryID": "000000004",
+          "seatCategoryName": "Комфорт+"
+        }
+      ],
+      "seatPrices": [
+        {
+          "priceTypeID": "000000001",
+          "priceTypeName": "Полный",
+          "priceTypeValue": 6000
+        },
+        {
+          "priceTypeID": "000000001",
+          "priceTypeName": "Льготный",
+          "priceTypeValue": 3000
+        },
+        {
+          "priceTypeID": "000000001",
+          "priceTypeName": "Детский",
+          "priceTypeValue": 1000
         }
       ]
     },
@@ -67,6 +137,41 @@
           "ticketTypesID": "000000002",
           "ticketTypesName": "Один круг"
         }
+      ],
+      "seatCategories": [
+        {
+          "seatCategoryID": "000000001",
+          "seatCategoryName": "Стандарт"
+        },
+        {
+          "seatCategoryID": "000000002",
+          "seatCategoryName": "VIP"
+        },
+        {
+          "seatCategoryID": "000000003",
+          "seatCategoryName": "Комфорт"
+        },
+        {
+          "seatCategoryID": "000000004",
+          "seatCategoryName": "Комфорт+"
+        }
+      ],
+      "seatPrices": [
+        {
+          "priceTypeID": "000000001",
+          "priceTypeName": "Полный",
+          "priceTypeValue": 6000
+        },
+        {
+          "priceTypeID": "000000001",
+          "priceTypeName": "Льготный",
+          "priceTypeValue": 3000
+        },
+        {
+          "priceTypeID": "000000001",
+          "priceTypeName": "Детский",
+          "priceTypeValue": 1000
+        }
       ]
     },
     {
@@ -90,6 +195,41 @@
           "ticketTypesID": "000000002",
           "ticketTypesName": "Один круг"
         }
+      ],
+      "seatCategories": [
+        {
+          "seatCategoryID": "000000001",
+          "seatCategoryName": "Стандарт"
+        },
+        {
+          "seatCategoryID": "000000002",
+          "seatCategoryName": "VIP"
+        },
+        {
+          "seatCategoryID": "000000003",
+          "seatCategoryName": "Комфорт"
+        },
+        {
+          "seatCategoryID": "000000004",
+          "seatCategoryName": "Комфорт+"
+        }
+      ],
+      "seatPrices": [
+        {
+          "priceTypeID": "000000001",
+          "priceTypeName": "Полный",
+          "priceTypeValue": 6000
+        },
+        {
+          "priceTypeID": "000000001",
+          "priceTypeName": "Льготный",
+          "priceTypeValue": 3000
+        },
+        {
+          "priceTypeID": "000000001",
+          "priceTypeName": "Детский",
+          "priceTypeValue": 1000
+        }
       ]
     },
     {
@@ -112,6 +252,41 @@
         {
           "ticketTypesID": "000000002",
           "ticketTypesName": "Один круг"
+        }
+      ],
+      "seatCategories": [
+        {
+          "seatCategoryID": "000000001",
+          "seatCategoryName": "Стандарт"
+        },
+        {
+          "seatCategoryID": "000000002",
+          "seatCategoryName": "VIP"
+        },
+        {
+          "seatCategoryID": "000000003",
+          "seatCategoryName": "Комфорт"
+        },
+        {
+          "seatCategoryID": "000000004",
+          "seatCategoryName": "Комфорт+"
+        }
+      ],
+      "seatPrices": [
+        {
+          "priceTypeID": "000000001",
+          "priceTypeName": "Полный",
+          "priceTypeValue": 6000
+        },
+        {
+          "priceTypeID": "000000001",
+          "priceTypeName": "Льготный",
+          "priceTypeValue": 3000
+        },
+        {
+          "priceTypeID": "000000001",
+          "priceTypeName": "Детский",
+          "priceTypeValue": 1000
         }
       ]
     }
