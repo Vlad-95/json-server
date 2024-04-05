@@ -10,6 +10,8 @@
       "venueName": "KORYSHKA",
       "pierName": "Адмиралтейская наб, 2 | Admiralty emb, 2",
       "serviceID": "000000001",
+      "eventNoSeats": true,
+      "eventFreeSeating": true,
       "ticketTypes": [
         {
           "ticketTypesID": "000000001",
@@ -31,6 +33,8 @@
       "venueName": "RYAPUSHKA",
       "pierName": "Супер наб, 2 | Admiralty emb, 2",
       "serviceID": "000000001",
+      "eventNoSeats": true,
+      "eventFreeSeating": true,
       "ticketTypes": [
         {
           "ticketTypesID": "000000001",
@@ -52,6 +56,8 @@
       "venueName": "HOMYAK",
       "pierName": "Абсолют наб, 2 | Admiralty emb, 2",
       "serviceID": "000000001",
+      "eventNoSeats": true,
+      "eventFreeSeating": true,
       "ticketTypes": [
         {
           "ticketTypesID": "000000001",
@@ -73,6 +79,8 @@
       "venueName": "UTKA",
       "pierName": "Абсолют наб, 2 | Admiralty emb, 2",
       "serviceID": "000000001",
+      "eventNoSeats": true,
+      "eventFreeSeating": true,
       "ticketTypes": [
         {
           "ticketTypesID": "000000001",
@@ -94,6 +102,8 @@
       "venueName": "UTKA",
       "pierName": "Абсолют наб, 2 | Admiralty emb, 2",
       "serviceID": "000000002",
+      "eventNoSeats": true,
+      "eventFreeSeating": true,
       "ticketTypes": [
         {
           "ticketTypesID": "000000001",
