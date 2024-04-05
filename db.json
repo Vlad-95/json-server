@@ -12,6 +12,7 @@
       "serviceID": "000000001",
       "eventNoSeats": true,
       "eventFreeSeating": true,
+      "eventDuration": 160,
       "ticketTypes": [
         {
           "ticketTypesID": "000000001",
@@ -70,6 +71,7 @@
       "serviceID": "000000001",
       "eventNoSeats": true,
       "eventFreeSeating": true,
+      "eventDuration": 120,
       "ticketTypes": [
         {
           "ticketTypesID": "000000001",
@@ -128,6 +130,7 @@
       "serviceID": "000000001",
       "eventNoSeats": true,
       "eventFreeSeating": true,
+      "eventDuration": 160,
       "ticketTypes": [
         {
           "ticketTypesID": "000000001",
@@ -186,6 +189,7 @@
       "serviceID": "000000001",
       "eventNoSeats": true,
       "eventFreeSeating": true,
+      "eventDuration": 80,
       "ticketTypes": [
         {
           "ticketTypesID": "000000001",
@@ -244,6 +248,7 @@
       "serviceID": "000000002",
       "eventNoSeats": true,
       "eventFreeSeating": true,
+      "eventDuration": 50,
       "ticketTypes": [
         {
           "ticketTypesID": "000000001",
