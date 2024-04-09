@@ -284,12 +284,12 @@
           "priceTypeValue": 6000
         },
         {
-          "priceTypeID": "000000001",
+          "priceTypeID": "000000002",
           "priceTypeName": "Льготный",
           "priceTypeValue": 3000
         },
         {
-          "priceTypeID": "000000001",
+          "priceTypeID": "000000003",
           "priceTypeName": "Детский",
           "priceTypeValue": 1000
         }
