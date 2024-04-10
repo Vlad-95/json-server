@@ -69,8 +69,8 @@
       "venueName": "RYAPUSHKA",
       "pierName": "Супер наб, 2 | Admiralty emb, 2",
       "serviceID": "000000001",
-      "eventNoSeats": true,
-      "eventFreeSeating": true,
+      "eventNoSeats": false,
+      "eventFreeSeating": false,
       "eventDuration": 120,
       "ticketTypes": [
         {
